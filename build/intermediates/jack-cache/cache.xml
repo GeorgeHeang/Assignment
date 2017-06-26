@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mac/.android/build-cache/270edaa3b7020a9ceb29aa58975d28dca068fcb1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1bb7a4504ebce86206d0c24466f99358b8071cda.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/3d022d0809cc111bec3f72fb0f2a678b02e3e535/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4ab844137f98572165fd88fb15639923d5d0a2b7.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/f37861b4b03222c7844be1bc6ebff5cb9a16ebca/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9c81e65a9243138b0b8bd368e28bb8e5f00cc891.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC1/84c524dcd1a3088edd5560a8ac176eae1317f770/annotations-4.0.0-RC1.jar"
+        revision="25.0.2"
+        sha1="84c524dcd1a3088edd5560a8ac176eae1317f770">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/annotations-4.0.0-RC1-626730a83ed13367502260357c85eb0ae2f707d2.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/8bdb11ba8316453045d24608ed3fcc2e4f827d4f/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0b346dcaaf3756cc067005354c0eb9016170a48c.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/6eb82b34ca440d250b5d944c3a93efe7b7e0726e/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c06860a0f21865ff3189fbbe862164a85643d0c7.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC1/c425e31eda1069f978a0e823ad50e567ab422656/gifdecoder-4.0.0-RC1.jar"
+        revision="25.0.2"
+        sha1="c425e31eda1069f978a0e823ad50e567ab422656">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gifdecoder-4.0.0-RC1-849989bfa4198ea449cb92d7622dba0f61a91447.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC1/7baec7d5132e7343100a99630a56a6584a33addc/glide-4.0.0-RC1.jar"
+        revision="25.0.2"
+        sha1="7baec7d5132e7343100a99630a56a6584a33addc">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/glide-4.0.0-RC1-05ad6203a5c5e96843e415bf4ea2f945247ea411.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-02bceb0fcb9a35217234bd81ccbcb504900a1e4b.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/2dbca5a7f0c5ab5bc296d9b993088886789a2129/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-98b07f8be9b500e88b10f14909953b3e3eaafb24.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/ef59e92b300b403760d7ceb697e58e09f05a1c82/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-45ad661309de0640c2d5d4b132051ff90ac96953.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Downloads/Assignment/app/libs/gson-2.8.1.jar"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.1-4b1b3c88e05197db54b37a2d8298ce1bf0582efd.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/438df88c46e1d477003f51bf4bfc48b2be1f83f8/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-39ac79f73bd87aa665dbe8b54e870b0e2bee63d1.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/750d0491aa7fb3da2c9354b2083799ea8e2a0fea/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-436dd6fea21aae1a3c9c417e912436130adfa92f.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC1/1b4bba8f8d3df8db064c875c043c01e9ca3cdee9/disklrucache-4.0.0-RC1.jar"
+        revision="25.0.2"
+        sha1="1b4bba8f8d3df8db064c875c043c01e9ca3cdee9">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/disklrucache-4.0.0-RC1-63f77164cabde22756c0212d7ad1cc4c6f4ad603.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/ed6b579128786dcad6bdef00a205414f10f1df57/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-13bd37d1be89c0b230c7106eb74c15b729073687.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/15.0/d40ab99147584cf6cfb5245be67b3fee2c7220f9/annotations-15.0.jar"
+        revision="25.0.2"
+        sha1="d40ab99147584cf6cfb5245be67b3fee2c7220f9">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/annotations-15.0-64f9dce6355b7b4b0e0769e4096aa3a4c564ba9c.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-cd23e4469d671ec59352399ea09c56571c590a57.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/ee889cbceb3681a249bc30e1f604de0dc4df03d9/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7df07318c48c0124902128bc6b4c7490fe1909c2.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/1281968a0aa57f378463a25c189fc0627e69c845/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7c0913fd9f79c49e246bbe720a5bab8434ec2c5f.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/ee0144282fb36787ec2b8e177f9c0ec2e1e71b80/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b8ad449d22458a74dc1e16c9376e8132471c2872.jar" />
+    </item>
+    <item
+        jar="/Users/mac/.android/build-cache/cda97d4b434387f9eee8abc63fb454bbb13bbdf1/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-57e510577fde5c5c54a94925688b14b5cc032bdb.jar" />
+    </item>
+
+</items>

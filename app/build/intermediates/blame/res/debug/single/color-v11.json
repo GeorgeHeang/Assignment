@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Assignment/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/ed6b579128786dcad6bdef00a205414f10f1df57/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Assignment/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/ed6b579128786dcad6bdef00a205414f10f1df57/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\Desktop\\Assignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\.android\\build-cache\\48a2e00b10108b4216628746d17fce3b696bac2f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\Desktop\\Assignment\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\.android\\build-cache\\48a2e00b10108b4216628746d17fce3b696bac2f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

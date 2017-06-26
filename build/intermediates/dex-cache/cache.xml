@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/Assignment/app/libs/gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.1_4b1b3c88e05197db54b37a2d8298ce1bf0582efd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ee0144282fb36787ec2b8e177f9c0ec2e1e71b80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8ad449d22458a74dc1e16c9376e8132471c2872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ef59e92b300b403760d7ceb697e58e09f05a1c82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45ad661309de0640c2d5d4b132051ff90ac96953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/cda97d4b434387f9eee8abc63fb454bbb13bbdf1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57e510577fde5c5c54a94925688b14b5cc032bdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/f37861b4b03222c7844be1bc6ebff5cb9a16ebca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c81e65a9243138b0b8bd368e28bb8e5f00cc891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/Assignment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bfecc7c5078ded0d26fa56bfcba51e8e04a5fa0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/8bdb11ba8316453045d24608ed3fcc2e4f827d4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b346dcaaf3756cc067005354c0eb9016170a48c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/1281968a0aa57f378463a25c189fc0627e69c845/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c0913fd9f79c49e246bbe720a5bab8434ec2c5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/3d022d0809cc111bec3f72fb0f2a678b02e3e535/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ab844137f98572165fd88fb15639923d5d0a2b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/6eb82b34ca440d250b5d944c3a93efe7b7e0726e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c06860a0f21865ff3189fbbe862164a85643d0c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/750d0491aa7fb3da2c9354b2083799ea8e2a0fea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_436dd6fea21aae1a3c9c417e912436130adfa92f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ed6b579128786dcad6bdef00a205414f10f1df57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13bd37d1be89c0b230c7106eb74c15b729073687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/ee889cbceb3681a249bc30e1f604de0dc4df03d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7df07318c48c0124902128bc6b4c7490fe1909c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/Assignment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28dea82de3ab3cef8bb89dc5f48761fab4352b4e">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01128d158503b26fc60cd5cc65c13cd9ed03ef0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/270edaa3b7020a9ceb29aa58975d28dca068fcb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bb7a4504ebce86206d0c24466f99358b8071cda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_cd23e4469d671ec59352399ea09c56571c590a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_02bceb0fcb9a35217234bd81ccbcb504900a1e4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/438df88c46e1d477003f51bf4bfc48b2be1f83f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39ac79f73bd87aa665dbe8b54e870b0e2bee63d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/2dbca5a7f0c5ab5bc296d9b993088886789a2129/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mac/Downloads/Assignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98b07f8be9b500e88b10f14909953b3e3eaafb24/classes.dex" />
+    </item>
+
+</items>

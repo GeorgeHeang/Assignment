@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\Desktop\\Assignment\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\.android\\build-cache\\609515621509c6534a4ff778f043a75b744f86b1\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Assignment/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mac/.android/build-cache/f37861b4b03222c7844be1bc6ebff5cb9a16ebca/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\Desktop\\Assignment\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mac/Downloads/Assignment/C:\\Users\\George\\.android\\build-cache\\609515621509c6534a4ff778f043a75b744f86b1\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Assignment/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mac/.android/build-cache/f37861b4b03222c7844be1bc6ebff5cb9a16ebca/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
